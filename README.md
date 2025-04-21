@@ -1,1 +1,1 @@
-# AOSP-Music
+This app is modded AOSP Music
